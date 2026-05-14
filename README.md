@@ -16,32 +16,20 @@
 
 <section id="hardware">
   <h2> Výběr Hardwaru</h2>
-  <p>Po analýze trhu jsem vybral <b>TP-Link Deco M4 (3-pack)</b>. Zvažoval jsem i následující alternativy:</p>
-
-  
-
-
-  <h4> Proč právě Deco M4?</h4>
-  <ul>
-    <li><b>Předchozí zkušenosti:</b> Mám skvělé reference od známých, kteří systém dlouhodobě provozují bez výpadků.</li>
-    <li><b>Poměr cena/výkon:</b> V kategorii AC1200 nabízí nejlepší stabilitu za rozumnou pořizovací cenu.</li>
-    <li><b>Estetika:</b> Vzhled jednotek je minimalistický a neruší design interiéru (důležité pro umístění v obytných místnostech).</li>
-    <li><b>Ekosystém:</b> Velmi jednoduchá správa přes mobilní aplikaci a možnost budoucího rozšíření o další jednotky Deco.</li>
-  </ul>
-  
-  <table width="100%">
+  <p>Po prohledání obchodů jsem vybral <b>TP-Link Deco M4 (3-pack)</b>. Zvažoval jsem i následující:</p>
+    <table width="100%">
     <thead>
       <tr style="background-color: #f2f2f2;">
         <th>Zvažovaný model</th>
         <th>Hlavní přednost</th>
-        <th>Proč dostal Deco M4 přednost?</th>
+        <th>Proč jsem ho nevybral?</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td><b>Mercusys Halo H50G</b></td>
         <td>Agresivní cena</td>
-        <td>Deco má odladěnější software a spolehlivější podporu.</td>
+        <td>Méně odladěná aplikace, horší podpora.</td>
       </tr>
       <tr>
         <td><b>Asus ZenWiFi AC</b></td>
@@ -55,6 +43,15 @@
       </tr>
     </tbody>
   </table>
+  <h4> Proč právě Deco M4?</h4>
+  <ul>
+    <li><b>Předchozí zkušenosti:</b> Mám skvělé reference od známých, kteří systém dlouhodobě provozují bez výpadků.</li>
+    <li><b>Poměr cena/výkon:</b> V kategorii AC1200 nabízí nejlepší stabilitu za rozumnou pořizovací cenu.</li>
+    <li><b>Estetika:</b> Vzhled jednotek je minimalistický a neruší design interiéru (důležité pro umístění v obytných místnostech).</li>
+    <li><b>Ekosystém:</b> Velmi jednoduchá správa přes mobilní aplikaci a možnost budoucího rozšíření o další jednotky Deco.</li>
+  </ul>
+  
+
 </section>
 
 <section id="implementation">
@@ -70,7 +67,7 @@
   <h3>2. Reálné umístění (Detailní pohledy)</h3>
   <p>
     Jednotky by měli být umístěny tak, aby nebyly v uzavřených prostorech (skříně apod.), 
-    což maximalizuje efektivitu antén. Bohužel jsem však musel udělat vyjímku v kuchyni z důvodu špatně přístupných zásuvek.
+    což maximalizuje efektivnost antén. Bohužel jsem však musel udělat vyjímku v kuchyni z důvodu špatně přístupných zásuvek.
   </p>
   
   <div align="center">
@@ -87,7 +84,7 @@
   
   <h3>1. Vliv elektroinstalace na signál (Hliník vs. Měď)</h3>
   <p>
-    Během instalace jsme narazili na zajímavý technický fenomén. Dům má smíšenou elektroinstalaci, což se ukázalo jako klíčový faktor pro šíření signálu:
+    Během instalace jsme narazili na zajímavý technický problém. Dům má smíšenou elektroinstalaci, což se ukázalo jako klíčový faktor pro ty velké rozdíly mezi šířením signálů:
   </p>
   <ul>
     <li>
