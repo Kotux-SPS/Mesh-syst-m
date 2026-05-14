@@ -18,32 +18,7 @@
   <h2> Výběr Hardwaru</h2>
   <p>Po analýze trhu jsem vybral <b>TP-Link Deco M4 (3-pack)</b>. Zvažoval jsem i následující alternativy:</p>
 
-  <table width="100%">
-    <thead>
-      <tr>
-        <th>Model</th>
-        <th>Hlavní přednost</th>
-        <th>Proč nevybrán?</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><b>Mercusys Halo H50G</b></td>
-        <td>Skvělá cena / Rychlost</td>
-        <td>Chybějící podpora některých funkcí a méně stabilní SW.</td>
-      </tr>
-      <tr>
-        <td><b>Asus ZenWiFi AC</b></td>
-        <td>Extrémní dosah a nastavení</td>
-        <td>Cena byla pro tento projekt příliš vysoká.</td>
-      </tr>
-      <tr>
-        <td><b>Tenda Nova MW6</b></td>
-        <td>Jednoduchost a cena</td>
-        <td>Slabší propustnost při větším množství připojených zařízení.</td>
-      </tr>
-    </tbody>
-  </table>
+  
 
 
   <h4> Proč právě Deco M4?</h4>
