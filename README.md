@@ -144,6 +144,14 @@
 
 <hr>
 
+<section id="thanks">
+  <h3> Poděkování</h3>
+  <p>
+    Speciální díky patří <b>Jakubu Daškovi</b> za pomoc s realizací, testováním a technickou podporou během celého procesu instalace.
+  </p>
+</section>
+
 <footer align="center">
-  <p>Vytvořeno jako součást domácího networking projektu.</p>
+  <p>Vytvořeno v roce 2026 jako dokumentace domácí sítě.</p>
 </footer>
+
