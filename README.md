@@ -58,14 +58,14 @@
 
   <h3>2. Reálné umístění (Detailní pohledy)</h3>
   <p>
-    Jednotky jsou umístěny tak, aby nebyly v uzavřených prostorech (skříně apod.), 
-    což maximalizuje efektivitu antén.
+    Jednotky by měli být umístěny tak, aby nebyly v uzavřených prostorech (skříně apod.), 
+    což maximalizuje efektivitu antén. Bohužel jsem však musel udělat vyjímku v kuchyni z důvodu špatně přístupných zásuvek.
   </p>
   
   <div align="center">
-    <img src="path/to/foto1.jpg" alt="Deco Master Unit" width="30%" style="margin-right: 10px;">
-    <img src="path/to/foto2.jpg" alt="Deco Node Unit" width="30%" style="margin-right: 10px;">
-    <img src="path/to/foto3.jpg" alt="Deco Garden Unit" width="30%">
+    <img src="fotky/pokojicek.jpeg" alt="Deco hlavní jednotka Pokojíček" width="30%" style="margin-right: 10px;">
+    <img src="fotky/kuchyn.jpeg" alt="Deco jednotka Kuchyň" width="30%" style="margin-right: 10px;">
+    <img src="fotky/dilna.jpeg" alt="Deco jednotka Dílna" width="30%">
     <br>
     <small><i>Detailní pohledy na umístění jednotek (viz pozice v náčrtu).</i></small>
   </div>
