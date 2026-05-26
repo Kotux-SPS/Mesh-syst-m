@@ -62,7 +62,7 @@
     Na náčrtu níže jsou vyznačeny pozice jednotlivých jednotek (Deco 1, 2, 3) a jejich 
     přibližný dosah signálu v rámci domu.
   </p>
-  <img src="fotky/nacrt(legenda).png" alt="Náčrt domu a pokrytí" width="100%">
+  <img src="fotky/nacrt.png" alt="Náčrt domu a pokrytí" width="100%">
 
   <h3>2. Reálné umístění (Detailní pohledy)</h3>
   <p>
